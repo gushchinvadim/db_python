@@ -68,4 +68,4 @@ with psycopg2.connect(database="clients_db", user="postgres", password="postgres
 conn.close()
 ```
 
-</details>
+</details># db_python
